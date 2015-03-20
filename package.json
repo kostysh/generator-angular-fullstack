@@ -1,5 +1,5 @@
 {
-  "name": "generator-angular-fullstack",
+  "name": "generator-angular-fullstack-noscale",
   "version": "2.0.13",
   "description": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
   "keywords": [
@@ -15,12 +15,12 @@
     "front-end",
     "app"
   ],
-  "homepage": "https://github.com/DaftMonk/generator-angular-fullstack",
-  "bugs": "https://github.com/DaftMonk/generator-angular-fullstack/issues",
+  "homepage": "https://github.com/kostysh/generator-angular-fullstack-noscale",
+  "bugs": "https://github.com/kostysh/generator-angular-fullstack-noscale/issues",
   "author": "Tyler Henkel",
   "repository": {
     "type": "git",
-    "url": "git://github.com/DaftMonk/generator-angular-fullstack.git"
+    "url": "git://github.com/kostysh/generator-angular-fullstack-noscale.git"
   },
   "scripts": {
     "test": "grunt test"
